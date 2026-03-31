@@ -11,5 +11,8 @@ Also I used data loaders which augumented the data from train data set every new
 
 After all this to make the model even smaller I did quantisation to 8 bit int, it decreased  the accuracy around 1.5 percent but size decreased immensly 
 
+I got an accuracy of  0.696875
+and model size is 64 kb
+
 This is my final quantised model
 
